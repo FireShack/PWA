@@ -3,6 +3,7 @@ const cacheName = 'apv-v1'
 const archives = [
     '/',
     'index.html',
+    'manifest.json',
     'css/bootstrap.css',
     'css/styles.css',
     'js/apv.js',
